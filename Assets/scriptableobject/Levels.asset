@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e5d04b524a953843bc9132a3762dec9, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  sentence:
+  - name:
+    - hello how are you?
+    - my name is john
+    - On my way
+    - Thank you sir
+    - thank you for coming
+    - where are you from?
+    - how was your day?
+    - when did you came?
+    - where are you going?
+    - are you coming today?
+  - name:
+    - 'Have a great weekend. See you on Monday. '
+    - my name is john
+    - On my way
+    - 'It was nice meeting you. Take care. '
+    - 'Hope to meet you soon. Bye. '
+    - Does he play tennis?
+    - My Dad never works on the weekends.
+    - 'I love my new pets. '
+    - 'We drink coffee every morning. '
+    - The train leaves every morning at 18 AM.
+  - name:
+    - i like ice cream in summer
+    - Its very hot
+    - Sun rise from east
+    - Sun set in west
+    - Moon is seen in night
+    - starts sparkle at night
+    - we celebrated festival yesterday
+    - not feeling well
+    - M going on vaccation
+    - today is my week off
+  - name:
+    - what is your salary
+    - what is your name
+    - what does your father do?
+    - how is your mom
+    - where is your hometown
+    - we are playing cricket
+    - i want new book
+    - where is my book
+    - i want to play with john
+    - john is coming home today
